@@ -16,3 +16,4 @@ This repository contains the code for my analysis of the vaginal microbiome and 
    ```sh
    git clone https://github.com/Maysa-N/LDA-for-Vaginal-Microbiome.git
    cd LDA-for-Vaginal-Microbiome
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16929047.svg)](https://doi.org/10.5281/zenodo.16929047)
